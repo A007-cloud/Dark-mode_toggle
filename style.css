@@ -23,7 +23,7 @@ body.dark {
 	color: white;
 }
 
-#main {
+.toggle-container {
 	user-select: none;
 	position: fixed;
 	top: 10px;
